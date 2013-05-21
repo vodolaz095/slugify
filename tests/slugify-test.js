@@ -1,6 +1,6 @@
 var assert = require('assert'),
     vows = require('vows'),
-    slugify = require('./../index.js').slugify;
+    slugify = require('./../index.js');
 
 vows.describe('The model test')
     .addBatch({

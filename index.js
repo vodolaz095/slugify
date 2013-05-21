@@ -1,4 +1,4 @@
-exports.slugify=function(text){
+exports = module.exports = function(text){
     text=text.toString().toLowerCase();
     text = text.replace(/[^_a-zA-Z0-9,&\s]+/ig, '');
     text = text.replace(/-/gi, "_");

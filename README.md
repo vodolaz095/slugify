@@ -7,7 +7,7 @@ Slug is a part of an URL which identifies a page using human-readable keywords, 
 Usage
 =======
 
-    var slugify=require('slugify').slugify;
+    var slugify=require('slugify');
     console.log(slugify("I'm filling lucky"));
       //=>'im_filling_lucky'
     console.log(slugify("I'm filling lucky!"));

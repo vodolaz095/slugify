@@ -1,7 +1,7 @@
 {
-    "name":"slugify",
+    "name":"slugify2",
     "version":"0.0.1",
-    "description":"Module to slugify strings",
+    "description":"Module to create Human readable urls from string",
     "main":"index.js",
     "scripts":{
         "test":"node tests/slugify-test.js"
