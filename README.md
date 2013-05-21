@@ -35,7 +35,7 @@ Install vows first
     $ npm install vows
     $ npm test
 
-Build status - [![Build Status](https://travis-ci.org/vodolaz095/slugify.png?branch=master)](https://travis-ci.org/vodolaz095/slugify)
+Build status - [![Build Status](https://travis-ci.org/vodolaz095/slugify.png)](https://travis-ci.org/vodolaz095/slugify)
 
 ## Credits
 
