@@ -31,6 +31,5 @@
         "vows":"*"
     },
     "license":"MIT",
-    "readmeFilename":"README.md",
-    "gitHead":"f7b425702e32561b2a4d32cf1ef3ac127b37bc8f"
+    "readmeFilename":"README.md"
 }
