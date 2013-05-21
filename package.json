@@ -1,0 +1,36 @@
+{
+    "name":"slugify",
+    "version":"0.0.1",
+    "description":"Module to slugify strings",
+    "main":"index.js",
+    "scripts":{
+        "test":"node tests/slugify-test.js"
+    },
+    "repository":{
+        "type":"git",
+        "url":"git://github.com/vodolaz095/slugify.git"
+    },
+    "bugs": {
+        "url": "https://github.com/vodolaz095/slugify/issues"
+    },
+    "author": {
+        "name": "Anatolij Ostroumov",
+        "email": "Ostroumov095@gmail.com",
+        "url": "http://www.teksi.ru/resume"
+    },
+    "keywords":[
+        "slugify",
+        "string",
+        "human",
+        "readable",
+        "url",
+        "slug"
+    ],
+    "devDependencies":{
+        "vows":"*"
+    },
+    "author":"Anatolij Ostroumov",
+    "license":"MIT",
+    "readmeFilename":"README.md",
+    "gitHead":"f7b425702e32561b2a4d32cf1ef3ac127b37bc8f"
+}
