@@ -1,6 +1,6 @@
 {
     "name":"slugify2",
-    "version":"0.0.1",
+    "version":"0.0.2",
     "description":"Module to create Human readable urls from string",
     "main":"index.js",
     "scripts":{
@@ -26,10 +26,10 @@
         "url",
         "slug"
     ],
+    "engines": { "node": ">= 0.8.0" },
     "devDependencies":{
         "vows":"*"
     },
-    "author":"Anatolij Ostroumov",
     "license":"MIT",
     "readmeFilename":"README.md",
     "gitHead":"f7b425702e32561b2a4d32cf1ef3ac127b37bc8f"
